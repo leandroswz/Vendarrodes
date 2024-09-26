@@ -1,0 +1,26 @@
+[
+
+    {
+        "name"  : "Ford Fusion 2014",
+        "file"  : "fusion.jpg",
+        "price" : 45000.00
+    },
+    {
+        "name"  : "Chevrolet Tracker 2021",
+        "file"  : "GM-tracker_2021.jpg",
+        "price" : 90000.00
+    },    {
+        "name"  : "Hyundai HB20 2020",
+        "file"  : "hb20.jpg",
+        "price" : 60000.00
+    },    {
+        "name"  : "Jeep Renegade MOAB 2018",
+        "file"  : "renegade.jpg",
+        "price" : 145000.00
+    },    {
+        "name"  : "Hyundai Tucson 2022",
+        "file"  : "tucson.jpg",
+        "price" : 230000.00
+    }
+
+]
